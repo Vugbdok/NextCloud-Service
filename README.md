@@ -1,4 +1,4 @@
-# 📱 NextCloud Service
+#☁️ NextCloud Service
 
 This repository hosts the database files used by the **NextCloud Service** for **Metro OS**.  
 These databases power various online features and services, such as **Shop**, and are designed to be fetched directly by Metro OS during runtime.
