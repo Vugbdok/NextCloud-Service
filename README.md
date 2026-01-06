@@ -15,6 +15,7 @@ These databases power various online features and services, such as **Shop**, an
 - The `.sf` files are WAV files
 - The `.as` files are SVG assets
 - The `.cer` files are TXT files
+- The `.sb3` files are Scratch Project files
 - You’re welcome to view the files, but this repo is **Not open for contributions**. (This solely exists so Metro OS can download them reliably.)
 
 ---
